@@ -1,0 +1,7 @@
+Policy Number: PN12345
+Policyholder Name: Rahul Verma
+Date: 2026-01-12
+Location: Bhopal
+Description: Small accident, no injury
+Claim Type: vehicle
+Estimated Damage: 15000
